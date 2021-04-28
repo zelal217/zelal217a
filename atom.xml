@@ -3,11 +3,11 @@
   <title>Zelal</title>
   
   <subtitle>Zelal_blog</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="/zelal217a/atom.xml" rel="self"/>
   
-  <link href="https://www.mobaijun.com/"/>
+  <link href="https://zelal217.github.io/zelal217a/"/>
   <updated>2021-04-27T10:10:11.184Z</updated>
-  <id>https://www.mobaijun.com/</id>
+  <id>https://zelal217.github.io/zelal217a/</id>
   
   <author>
     <name>abdusalam</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>html笔记</title>
-    <link href="https://www.mobaijun.com/posts/1538105733.html"/>
-    <id>https://www.mobaijun.com/posts/1538105733.html</id>
+    <link href="https://zelal217.github.io/zelal217a/posts/1538105733.html"/>
+    <id>https://zelal217.github.io/zelal217a/posts/1538105733.html</id>
     <published>2021-04-27T10:02:42.176Z</published>
     <updated>2021-04-27T10:10:11.184Z</updated>
     
@@ -45,8 +45,8 @@
   
   <entry>
     <title>新博客发布的第一文章</title>
-    <link href="https://www.mobaijun.com/posts/3274106043.html"/>
-    <id>https://www.mobaijun.com/posts/3274106043.html</id>
+    <link href="https://zelal217.github.io/zelal217a/posts/3274106043.html"/>
+    <id>https://zelal217.github.io/zelal217a/posts/3274106043.html</id>
     <published>2021-04-27T01:46:47.000Z</published>
     <updated>2021-04-27T09:43:16.049Z</updated>
     
@@ -64,17 +64,17 @@
     </summary>
     
     
-      <category term="博客" scheme="https://www.mobaijun.com/categories/%E5%8D%9A%E5%AE%A2/"/>
+      <category term="博客" scheme="https://zelal217.github.io/zelal217a/categories/%E5%8D%9A%E5%AE%A2/"/>
     
     
-      <category term="告示" scheme="https://www.mobaijun.com/tags/%E5%91%8A%E7%A4%BA/"/>
+      <category term="告示" scheme="https://zelal217.github.io/zelal217a/tags/%E5%91%8A%E7%A4%BA/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://www.mobaijun.com/posts/hello-world.html"/>
-    <id>https://www.mobaijun.com/posts/hello-world.html</id>
+    <link href="https://zelal217.github.io/zelal217a/posts/hello-world.html"/>
+    <id>https://zelal217.github.io/zelal217a/posts/hello-world.html</id>
     <published>2019-12-06T05:12:03.000Z</published>
     <updated>2021-04-27T09:51:22.268Z</updated>
     
@@ -91,10 +91,10 @@
     </summary>
     
     
-      <category term="随笔" scheme="https://www.mobaijun.com/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="https://zelal217.github.io/zelal217a/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-      <category term="其他" scheme="https://www.mobaijun.com/tags/%E5%85%B6%E4%BB%96/"/>
+      <category term="其他" scheme="https://zelal217.github.io/zelal217a/tags/%E5%85%B6%E4%BB%96/"/>
     
   </entry>
   
